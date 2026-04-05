@@ -1,0 +1,3 @@
+do{
+    //code
+}while(next_permutation(arr.begin(),arr.end()));
